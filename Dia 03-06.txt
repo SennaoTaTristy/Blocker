@@ -1,0 +1,1 @@
+Foi criado algumas conexões com o banco e algumas telas, em seguida criação da conexão para a API do mongoDB( Posteriormente vai ser trocada pelo Supabase).
